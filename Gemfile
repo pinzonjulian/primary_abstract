@@ -64,3 +64,5 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem 'example_app', path: 'engines/example_app'
