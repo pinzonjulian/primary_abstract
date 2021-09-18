@@ -66,3 +66,4 @@ group :test do
 end
 
 gem 'example_app', path: 'engines/example_app'
+gem 'different_app', path: 'engines/different_app'
